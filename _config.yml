@@ -1,0 +1,23 @@
+name: ShaunWhalen
+favicon: null
+layout_spectrum: 0.4133824398741126
+typography_spectrum: 0.26771042961627245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5750801179092377
+  lightness: 0.2606738379690796
+  saturation: 0.2217900762334466
+  rhythmicContrast: 0.801496542757377
+purpose: []
